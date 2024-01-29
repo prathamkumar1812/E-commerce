@@ -105,3 +105,35 @@ a {
     color-scheme: dark;
   }
 }
+
+.text{
+  color: white;
+}
+.header{
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+  align-items: center;
+  background-color: gray;
+  padding: 20px 10px;
+  ;
+  gap:30px;
+  list-style: none;
+
+}
+.flex{
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+  align-items: center;
+  background-color: gray;
+  padding: 20px 10px;
+  ;
+  gap:30px;
+  list-style: none;
+}
+.heading{
+  font-size: 30px;
+  font-weight: 600;
+  color: white;
+}
